@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HelenKo07/nodejs-hw-mongodb.git"
+    "url": "git+https://github.com/leohutnyk/nodejs-hw-mongodb"
   },
   "keywords": [],
-  "author": "Alena Korma <alena.gorova93@gmail.com>",
+  "author": "Leonid Hutnyk <leohutnyk@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HelenKo07/nodejs-hw-mongodb/issues"
+    "url": "https://github.com/leohutnyk/nodejs-hw-mongodb/issues"
   },
-  "homepage": "https://github.com/HelenKo07/nodejs-hw-mongodb#readme",
+  "homepage": "https://github.com/leohutnyk/nodejs-hw-mongodb#readme",
   "devDependencies": {
     "@eslint/js": "^9.26.0",
     "eslint": "^9.26.0",
